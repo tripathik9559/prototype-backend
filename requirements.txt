@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+ortools==9.14.6206
+psycopg2-binary==2.9.10
+redis==5.0.1
+python-socketio==5.10.0
+python-engineio==4.7.1
+websockets==12.0
